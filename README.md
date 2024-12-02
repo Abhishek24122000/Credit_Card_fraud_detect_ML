@@ -1,4 +1,6 @@
 # Credit_Card_fraud_detect_ML 
+![CCFD](https://github.com/user-attachments/assets/eded2a30-6ec8-40f5-a1d1-26555251cc29)
+
  - As part of my master’s capstone project, our two-member team focused on advising two investors, Mr.
 Patrick Jyengar and Mr. Peter Jyengar, by creating personalized stock portfolios based on their financial
 goals.
